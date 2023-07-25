@@ -1,0 +1,8 @@
+D:\jul24\ASS15\ASS15\bin\Debug\ASS15.exe.config
+D:\jul24\ASS15\ASS15\bin\Debug\ASS15.exe
+D:\jul24\ASS15\ASS15\bin\Debug\ASS15.pdb
+D:\jul24\ASS15\ASS15\obj\Debug\ASS15.csproj.AssemblyReference.cache
+D:\jul24\ASS15\ASS15\obj\Debug\ASS15.csproj.SuggestedBindingRedirects.cache
+D:\jul24\ASS15\ASS15\obj\Debug\ASS15.csproj.CoreCompileInputs.cache
+D:\jul24\ASS15\ASS15\obj\Debug\ASS15.exe
+D:\jul24\ASS15\ASS15\obj\Debug\ASS15.pdb
